@@ -62,7 +62,9 @@ Paste the full code into your a github file ending in .svg
 
 Preview and iteratively customize to your liking
 
-You can showcase it on your profile by copying what I did with your own username and path instead
+If you have a readME as your GitHub Profile you can copy what I did with your own username and path instead
+
+[![](https://github.com/your-username/yourpath/blob/path/file.svg)](https://github.com/yourusername)
 
 ## 🙌 Final Thoughts
 This SVG texting bubble is a fun, creative way to express your personality and technical flair—whether you're showcasing your portfolio, adding some motion to your GitHub profile, or simply experimenting with SVGs.
