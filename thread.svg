@@ -252,7 +252,7 @@
 
   <!-- typing 1 -->
   <g transform="translate(10, 0)" class="typing-1">
-    <rect x="8.27246" width="100.7276" height="42" rx="20.9774" class="bubble" />
+    <rect x="8.27246" width="60.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
 
