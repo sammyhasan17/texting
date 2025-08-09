@@ -47,6 +47,7 @@ A lightweight, animated SVG snippet that simulates a **typing indicator** follow
     <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
   </circle>
 </g>
+
 ```
 ## 🎨Customization
 | Element        | You Can Change...                                |
