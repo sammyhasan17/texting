@@ -68,8 +68,9 @@ If you have a readME as your GitHub Profile you can copy what I did with your ow
 
 ## 🙌 Final Thoughts
 This SVG texting bubble is a fun, creative way to express your personality and technical flair—whether you're showcasing your portfolio, adding some motion to your GitHub profile, or simply experimenting with SVGs.
-
 Feel free to fork, remix, and make it yours.
+
+## 📢One More Thing...
 * If you use it or improve it, tag me or drop a ⭐️ on the repo!
 
 
