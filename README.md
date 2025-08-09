@@ -60,11 +60,11 @@ A lightweight, animated SVG snippet that simulates a **typing indicator** follow
 
 ## 💡 How to Use
 
-* Paste the full code into your a github file ending in .svg
+1.  Paste the full code into your a github file ending in .svg
 
-* Preview and iteratively customize to your liking
+2. Preview and iteratively customize to your liking
 
-* If you have a readME as your GitHub Profile you can copy what I did with your own username and path instead
+3.  If you have a readME as your GitHub Profile you can copy what I did with your own username and path instead
 
 [![](https://github.com/your-username/yourpath/blob/path/file.svg)](https://github.com/yourusername)
 
