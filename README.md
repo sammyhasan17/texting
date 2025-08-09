@@ -71,6 +71,6 @@ This SVG texting bubble is a fun, creative way to express your personality and t
 Feel free to fork, remix, and make it yours.
 
 ## 📢One More Thing...
-* If you use it or improve it, tag me or drop a ⭐️ on the repo!
+If you use it or improve it, tag me or drop a ⭐️ on the repo!
 
 
