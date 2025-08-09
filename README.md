@@ -59,11 +59,12 @@ A lightweight, animated SVG snippet that simulates a **typing indicator** follow
 | `display`      | Use CSS to toggle `.typing-5` and `.msg-5` views |
 
 ## 💡 How to Use
-Paste the full code into your a github file ending in .svg
 
-Preview and iteratively customize to your liking
+* Paste the full code into your a github file ending in .svg
 
-If you have a readME as your GitHub Profile you can copy what I did with your own username and path instead
+* Preview and iteratively customize to your liking
+
+* If you have a readME as your GitHub Profile you can copy what I did with your own username and path instead
 
 [![](https://github.com/your-username/yourpath/blob/path/file.svg)](https://github.com/yourusername)
 
