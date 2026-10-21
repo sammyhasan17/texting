@@ -271,7 +271,7 @@
   <!-- Hi, I'm sam -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="170" height="42" rx="18.0355" />
-    <text x="15" y="27">👋 Hey, I'm Sam! </text>
+    <text x="15" y="27">👋 Hi, I'm Sam! </text>
   </g>
 
   <!-- typing 2 -->
@@ -319,7 +319,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="370" height="42" rx="18.0355" class="bubble" />
+    <rect width="444" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> Also experienced in Agenitc Engineering and LLMs </text>    
   </g>
 
@@ -345,7 +345,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 170)" class="msg-5">
     <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> I build intelligent systems for Finance </text>    
+    <text x="15" y="27"> I build intelligent Financial systems </text>    
   </g> 
 
 
