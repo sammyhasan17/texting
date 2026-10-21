@@ -127,7 +127,7 @@
       }
       100% {
         opacity: 1;
-        transform: translate(10px, 150px);
+        transform: translate(10px, 200px);
       }
     }
 
@@ -268,7 +268,7 @@
 
   </g>
 
-  <!-- Hi, I'm Ishan -->
+  <!-- Hi, I'm sam -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="170" height="42" rx="18.0355" />
     <text x="15" y="27">👋 Hey, I'm Sam! </text>
