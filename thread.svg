@@ -295,8 +295,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="340" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> I'm a Data Analyst and Data Scientist </text>
-    <text x="15" y="50"> who loves Python, SQL, and Power BI </text>
+    <text x="15" y="27"> I'm a Data Engineer </text>
+    <text x="15" y="50"> who loves Python, SQL, and ML</text>
   </g>
 
   <!-- typing 3 -->
@@ -320,7 +320,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="370" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> Also experienced in ML, GenAI, and LLMs  </text>    
+    <text x="15" y="27"> Also experienced in Agenitc Engineering and LLMs </text>    
   </g>
 
 
@@ -345,7 +345,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 170)" class="msg-5">
     <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> I build intelligent systems for finance </text>    
+    <text x="15" y="27"> I build intelligent systems for Finance </text>    
   </g> 
 
 
